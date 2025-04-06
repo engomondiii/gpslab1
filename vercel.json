@@ -24,7 +24,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "gpslab1/wsgi.py"
+      "dest": "gpslab2/wsgi.py"
     }
   ]
 }
